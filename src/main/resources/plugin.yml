@@ -1,0 +1,4 @@
+name: Randommob
+version: '${project.version}'
+main: jp.thirtycraft.randommob.Randommob
+api-version: 1.19
